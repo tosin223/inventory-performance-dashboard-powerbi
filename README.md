@@ -65,7 +65,7 @@ The reorder risk analysis shows products requiring reorder by category. This hel
 
 The dashboard shows a reorder risk rate of 14.3%, indicating that a portion of inventory requires replenishment attention.
 
-![Reorder Risk Analysis](products%20requring%20reorder%20by%20category.png)
+![Reorder Risk Analysis](Products%20requring%20reorder%20by%20category.png)
 
 ---
 
